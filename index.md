@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+---
+
 ## Tony Ta ##
 
 - **Email**: ttta@ucsd.edu
