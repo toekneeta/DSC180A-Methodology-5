@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-## Tony Ta ##
+## Tony Ta
 
 - **Email**: ttta@ucsd.edu
 
